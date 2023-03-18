@@ -5,8 +5,9 @@
 
 ---
 
-<h4>Hey!!! I'm Yash. I'm a Hardware Engineer from Mumbai, India. <br>
-I am Radio enthusiast and I'am learning programming through small projects on the side.
+<h4>Hey!!!👋 I'm Yash. I'm a Electronics & Telecommunication Engineer from Mumbai, India. <br>
+I ❤️ Hardware related projects and I am Linux, Radio enthusiast and I'm learning programming through small projects on the side.
+And I use Arch BTW!!!
 </h4>
 
 ---
@@ -45,11 +46,11 @@ I am Radio enthusiast and I'am learning programming through small projects on th
 <br>
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=miyashhhh&show_icons=true&theme=graywhite&hide_border=true" />
-<img width="42.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=miyashhhh&theme=graywhite&hide_border=true" />
+<img width="47.2%" src="https://github-readme-stats.vercel.app/api?username=miyashhhh&show_icons=true&theme=graywhite&hide_border=true" />
+<img width="49.8%" src="https://github-readme-streak-stats.herokuapp.com/?user=miyashhhh&theme=graywhite&hide_border=true" />
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=miyashhhh&bg_color=ffffff&color=616161&line=000000&point=595959&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=miyashhhh&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true&height=300&radius=8&custom_title=Total%20Contributions%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 

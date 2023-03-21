@@ -1,66 +1,58 @@
-<h1 align="center">
-<b>MIYASHHHH ;)
-</h1>
-
-
----
-
-<h4>Hey!!!👋 I'm Yash. I'm a Electronics & Telecommunication Engineer from Mumbai, India. <br>
-I ❤️ Hardware related projects and I am Linux, Radio enthusiast and I'm learning programming through small projects on the side.
-And I use Arch BTW!!!
-</h4>
-
----
-
-### SKILLS
-
-##### LANGUAGES
-
-<div class="SkillsImagesTools" align="left">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-
-</div>
-
-##### TOOLS
-
-<div class="SkillsImagesTools" align="left">
-
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-</div>
-
-##### IDEs
-
-<div class="SkillsImagesIDEs" align="left">
-
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
-
-</div>
-
----
-
-### STATS
+# Hello!
 
 <br>
 
+```
+I'm Yash a wanna be hardware engineer from Mumbai, India.
+I 🖤 hardware related projects, I'm Linux, Radio  
+enthusiast and anything using wireless technology excites me 
+apart from that I'm also learning programming through small 
+projects on the side.
+```
+
+<br>
+
+---
+
+###### LANGUAGES
+
+![Python Badge](https://img.shields.io/badge/Python-000000?style=flat&labelColor=black&logo=python&logoColor=white)&nbsp;![MicroPython Badge](https://img.shields.io/badge/MicroPython-000000?style=flat&labelColor=black&logo=micropython&logoColor=white)&nbsp;![C Badge](https://img.shields.io/badge/C-000000?style=flat&labelColor=black&logo=c&logoColor=white)&nbsp;![C++ Badge](https://img.shields.io/badge/C++-000000?style=flat&labelColor=black&logo=cplusplus&logoColor=white)&nbsp;![HTML Badge](https://img.shields.io/badge/HTML-000000?style=flat&labelColor=black&logo=html5&logoColor=white)&nbsp;![CSS Badge](https://img.shields.io/badge/CSS-000000?style=flat&labelColor=black&logo=css3&logoColor=white)&nbsp;![JavaScript Badge](https://img.shields.io/badge/JavaScript-000000?style=flat&labelColor=black&logo=javascript&logoColor=white)&nbsp;![Bash Badge](https://img.shields.io/badge/Bash-000000?style=flat&labelColor=black&logo=gnubash&logoColor=white)&nbsp;![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=flat&labelColor=black&logo=markdown&logoColor=white)&nbsp;
+
+###### TOOLS TECHNOLOGIES & SOFTWARES
+![Git Badge](https://img.shields.io/badge/Git-000000?style=flat&labelColor=black&logo=git&logoColor=white)&nbsp;![Linux Badge](https://img.shields.io/badge/Linux-000000?style=flat&labelColor=black&logo=linux&logoColor=white)&nbsp;![KiCad Badge](https://img.shields.io/badge/KiCad-000000?style=flat&labelColor=black&logo=KiCad&logoColor=white)&nbsp;![Arduino Badge](https://img.shields.io/badge/Arduino-000000?style=flat&labelColor=black&logo=arduino&logoColor=white)&nbsp;![STM  Badge](https://img.shields.io/badge/STMicroelectronics-000000?style=flat&labelColor=black&logo=stmicroelectronics&logoColor=white)&nbsp;![ESP Badge](https://img.shields.io/badge/Espressif-000000?style=flat&labelColor=black&logo=espressif&logoColor=white)&nbsp;![Raspberry Pi Badge](https://img.shields.io/badge/Raspberry%20Pi-000000?style=flat&labelColor=black&logo=raspberrypi&logoColor=white)&nbsp;
+
+###### IDEs
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=flat&labelColor=black&logo=visualstudiocode&logoColor=white)&nbsp;![PyCharm Badge](https://img.shields.io/badge/PyCharm-000000?style=flat&labelColor=black&logo=pycharm&logoColor=white)&nbsp;![Arduino IDE Badge](https://img.shields.io/badge/Arduino%20IDE-000000?style=flat&labelColor=black&logo=arduino&logoColor=white)&nbsp;![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse%20IDE-000000?style=flat&labelColor=black&logo=eclipseide&logoColor=white)&nbsp;![Vim Badge](https://img.shields.io/badge/Vim-000000?style=flat&labelColor=black&logo=vim&logoColor=white)&nbsp;![Jupyter Badge](https://img.shields.io/badge/Jupyter-000000?style=flat&labelColor=black&logo=jupyter&logoColor=white)&nbsp;
+
+<br>
+
+---
+
+###### STATS
+
 <p align="center">
 <img width="47.2%" src="https://github-readme-stats.vercel.app/api?username=miyashhhh&show_icons=true&theme=graywhite&hide_border=true" />
-<img width="49.8%" src="https://github-readme-streak-stats.herokuapp.com/?user=miyashhhh&theme=graywhite&hide_border=true" />
+<img width="49.8%" src="https://github-readme-streak-stats.herokuapp.com/?user=miyashhhh&theme=graywhite&hide_border=false" />
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=miyashhhh&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true&height=300&radius=8&custom_title=Total%20Contributions%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![miyashhhh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=miyashhhh&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true&height=300&radius=8&custom_title=Total%20Contributions%20Graph)
+
+
+<br>
 
 ---
 
-Always **Open-Source** and **Free** as in _**“free speech”**_  not as in  _**“free beer”**_.
+Always [![Open-Source Logo](https://img.icons8.com/ios/16/open-source.png)](https://icons8.com/) **Open-Source** and [![A mushroom-head robot](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Heckert_GNU.png/16px-Heckert_GNU.png)](https://www.fsf.org/)  **Free** as in _**free speech**_ not as in _**free beer**_.
 
 ---
+
+<br>
+<br>
 
 <div class="CreditsTimestamp" align="right">
 <p>
-Credit: <a href="https://github.com/miyashhhh">miyashhhh</a><br>
-Last Edited on: 18/03/2023
+Credit: <b><a href="https://github.com/miyashhhh" style="color:#575A6B">miyashhhh</a></b><br>
+Last edited on: <b>22/03/2023</b>
 </p>
 </div>

@@ -4,10 +4,10 @@
 
 ```
 I'm Yash a wanna be hardware engineer from Mumbai, India.
-I 🖤 hardware related projects, I'm Linux, Radio  
+I 🖤 hardware related projects. I'm Linux, Radio  
 enthusiast and anything using wireless technology excites me 
-apart from that I'm also learning programming through small 
-projects on the side.
+apart from that I'm also learning new programming languages 
+through small projects on the side.
 ```
 
 <br>
